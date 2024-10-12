@@ -1,4 +1,4 @@
-# Real-Time Fraud Detection System
+# Real-Time-Transaction-Fraud-Detection-System
 
 A scalable, distributed real-time fraud detection system built with Apache Kafka, Apache Flink, PostgreSQL, and Streamlit. The system processes transaction streams from multiple banks, applies fraud detection rules, and provides real-time monitoring through an interactive dashboard.
 
